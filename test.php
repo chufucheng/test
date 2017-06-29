@@ -1,5 +1,5 @@
 <?php
-	echo "11111";
-	echo "222";
+	echo "aaaaa";
+	echo "asddaad";
 	phpinfo();
 ?>
