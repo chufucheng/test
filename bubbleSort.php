@@ -46,4 +46,5 @@ function bubbleSort($arr = [],$sort = 'sort')
 }
 $arr = [1,32,5,123,32,456,32,734,2,6324,54,6,3435,77,23,5,8];
 $result = bubbleSort($arr,'asort');
+echo '<pre>';
 print_r($result);
